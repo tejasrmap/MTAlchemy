@@ -1,0 +1,33 @@
+# Compiled Binaries & Large Coursework Archives (Exceeds 100MB GitHub limits)
+*.apk
+*.aab
+*.zip
+*.tar.gz
+
+# Node Modules & NPM Artifacts
+node_modules/
+mt_alchemy_app/node_modules/
+package-lock.json
+mt_alchemy_app/package-lock.json
+firebase-debug.log*
+firestore-debug.log*
+
+# Flutter & Dart Build Artifacts
+mt_alchemy_app/build/
+mt_alchemy_app/.dart_tool/
+mt_alchemy_app/.flutter-plugins
+mt_alchemy_app/.flutter-plugins-dependencies
+
+# Android Build Cache & Local Secrets
+mt_alchemy_app/android/.gradle/
+mt_alchemy_app/android/local.properties
+mt_alchemy_app/android/app/build/
+
+# IDE & Editor Configurations
+.idea/
+.vscode/
+*.iml
+
+# Operating System Files
+.DS_Store
+Thumbs.db
