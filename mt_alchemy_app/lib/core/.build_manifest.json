@@ -1,6 +1,6 @@
 {
-  "build": 1,
-  "timestamp": "2026-08-18 10:14:22 +0800",
-  "milestone": "feat(init): initialize Flutter 3.47 cross-platform architecture with web and android platforms",
+  "build": 2,
+  "timestamp": "2026-08-19 14:25:31 +0800",
+  "milestone": "chore(deps): configure pubspec.yaml with Provider, Firebase Core, Auth and Cloud Firestore",
   "target": "NET4207-INTI-Aug2026"
 }
