@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "timestamp": "2026-08-19 14:25:31 +0800",
-  "milestone": "chore(deps): configure pubspec.yaml with Provider, Firebase Core, Auth and Cloud Firestore",
+  "build": 3,
+  "timestamp": "2026-08-20 16:40:15 +0800",
+  "milestone": "feat(platform): configure web PWA manifests, icons and web engine bootstrap",
   "target": "NET4207-INTI-Aug2026"
 }
