@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879807954400",
+    "project_id": "mtalchemy-aug2026",
+    "storage_bucket": "mtalchemy-aug2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879807954400:android:289696c339a745088c3f85",
+        "android_client_info": {
+          "package_name": "com.mtalchemy.mt_alchemy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "MTALCHEMY_FIREBASE_ANDROID_API_KEY_PROTECTED"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
