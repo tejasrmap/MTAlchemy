@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "timestamp": "2026-08-24 09:45:18 +0800",
-  "milestone": "feat(theme): configure AppTheme design system, Inter typography tokens and brand colors",
+  "build": 6,
+  "timestamp": "2026-08-25 15:12:49 +0800",
+  "milestone": "feat(constants): define AppConstants for Malaysian pricing, categories, and core consulting pillars",
   "target": "NET4207-INTI-Aug2026"
 }
