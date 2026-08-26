@@ -1,6 +1,6 @@
 {
-  "build": 6,
-  "timestamp": "2026-08-25 15:12:49 +0800",
-  "milestone": "feat(constants): define AppConstants for Malaysian pricing, categories, and core consulting pillars",
+  "build": 7,
+  "timestamp": "2026-08-26 17:05:33 +0800",
+  "milestone": "feat(firebase): configure FirebaseOptions credentials for web and android environments",
   "target": "NET4207-INTI-Aug2026"
 }
