@@ -1,6 +1,6 @@
 {
-  "build": 8,
-  "timestamp": "2026-08-27 18:22:10 +0800",
-  "milestone": "feat(service): implement MockDatabaseService with in-memory persistence and offline sync fallback",
+  "build": 9,
+  "timestamp": "2026-08-28 11:15:40 +0800",
+  "milestone": "feat(routing): setup HTML5 UrlSyncService path routing strategy without hash fragment",
   "target": "NET4207-INTI-Aug2026"
 }
