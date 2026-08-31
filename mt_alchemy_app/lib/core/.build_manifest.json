@@ -1,6 +1,6 @@
 {
-  "build": 9,
-  "timestamp": "2026-08-28 11:15:40 +0800",
-  "milestone": "feat(routing): setup HTML5 UrlSyncService path routing strategy without hash fragment",
+  "build": 10,
+  "timestamp": "2026-08-31 10:30:12 +0800",
+  "milestone": "feat(model): define UserModel and UserRole enum supporting 5 distinct RBAC privilege tiers",
   "target": "NET4207-INTI-Aug2026"
 }
