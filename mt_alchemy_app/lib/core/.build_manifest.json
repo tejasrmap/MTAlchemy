@@ -1,6 +1,6 @@
 {
-  "build": 11,
-  "timestamp": "2026-09-01 14:15:40 +0800",
-  "milestone": "feat(model): implement CourseModel, CourseModule, and interactive QuizOption data structures",
+  "build": 12,
+  "timestamp": "2026-09-02 16:20:05 +0800",
+  "milestone": "feat(model): create ProductModel with ProductType supporting digital downloads and physical toolkits",
   "target": "NET4207-INTI-Aug2026"
 }
