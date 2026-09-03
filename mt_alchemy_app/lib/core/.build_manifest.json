@@ -1,6 +1,6 @@
 {
-  "build": 12,
-  "timestamp": "2026-09-02 16:20:05 +0800",
-  "milestone": "feat(model): create ProductModel with ProductType supporting digital downloads and physical toolkits",
+  "build": 13,
+  "timestamp": "2026-09-03 11:45:30 +0800",
+  "milestone": "feat(model): define CartItem entity with quantity tracking and subtotal computations",
   "target": "NET4207-INTI-Aug2026"
 }
