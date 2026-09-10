@@ -1,6 +1,6 @@
 {
-  "build": 17,
-  "timestamp": "2026-09-09 13:40:55 +0800",
-  "milestone": "feat(model): implement OrganizationModel and employee roster structures for Journey D",
+  "build": 18,
+  "timestamp": "2026-09-10 17:25:18 +0800",
+  "milestone": "refactor(models): add JSON serialization, deserialization, copyWith, and equality methods",
   "target": "NET4207-INTI-Aug2026"
 }
