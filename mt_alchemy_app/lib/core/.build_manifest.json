@@ -1,6 +1,6 @@
 {
-  "build": 18,
-  "timestamp": "2026-09-10 17:25:18 +0800",
-  "milestone": "refactor(models): add JSON serialization, deserialization, copyWith, and equality methods",
+  "build": 19,
+  "timestamp": "2026-09-11 10:10:04 +0800",
+  "milestone": "feat(provider): implement NavigationProvider with declarative route state and history tracking",
   "target": "NET4207-INTI-Aug2026"
 }
