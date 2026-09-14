@@ -1,6 +1,6 @@
 {
-  "build": 19,
-  "timestamp": "2026-09-11 10:10:04 +0800",
-  "milestone": "feat(provider): implement NavigationProvider with declarative route state and history tracking",
+  "build": 20,
+  "timestamp": "2026-09-14 14:30:25 +0800",
+  "milestone": "feat(provider): implement AuthProvider with session lifecycle, role switching, and validation",
   "target": "NET4207-INTI-Aug2026"
 }
