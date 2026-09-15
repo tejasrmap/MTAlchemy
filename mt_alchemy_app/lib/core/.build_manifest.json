@@ -1,6 +1,6 @@
 {
-  "build": 20,
-  "timestamp": "2026-09-14 14:30:25 +0800",
-  "milestone": "feat(provider): implement AuthProvider with session lifecycle, role switching, and validation",
+  "build": 21,
+  "timestamp": "2026-09-15 16:50:42 +0800",
+  "milestone": "feat(provider): implement CourseProvider with catalog filtering and enrolled course indexing",
   "target": "NET4207-INTI-Aug2026"
 }
