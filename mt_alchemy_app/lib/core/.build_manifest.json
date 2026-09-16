@@ -1,6 +1,6 @@
 {
-  "build": 21,
-  "timestamp": "2026-09-15 16:50:42 +0800",
-  "milestone": "feat(provider): implement CourseProvider with catalog filtering and enrolled course indexing",
+  "build": 22,
+  "timestamp": "2026-09-16 11:20:15 +0800",
+  "milestone": "feat(provider): implement StoreProvider with cart operations, SST calculation, and stock decrement",
   "target": "NET4207-INTI-Aug2026"
 }
