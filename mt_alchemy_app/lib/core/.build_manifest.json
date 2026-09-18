@@ -1,6 +1,6 @@
 {
-  "build": 23,
-  "timestamp": "2026-09-17 09:40:33 +0800",
-  "milestone": "feat(provider): implement EmployerProvider with organizational team roster and analytics metrics",
+  "build": 24,
+  "timestamp": "2026-09-18 15:15:20 +0800",
+  "milestone": "feat(provider): implement EnquiryProvider with corporate RFP submission and volume tiering",
   "target": "NET4207-INTI-Aug2026"
 }
