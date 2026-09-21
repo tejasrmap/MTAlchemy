@@ -1,6 +1,6 @@
 {
-  "build": 24,
-  "timestamp": "2026-09-18 15:15:20 +0800",
-  "milestone": "feat(provider): implement EnquiryProvider with corporate RFP submission and volume tiering",
+  "build": 25,
+  "timestamp": "2026-09-21 13:55:08 +0800",
+  "milestone": "feat(service): implement PaymentGatewayService with FPX transaction signing and idempotency checks",
   "target": "NET4207-INTI-Aug2026"
 }
