@@ -1,6 +1,6 @@
 {
-  "build": 28,
-  "timestamp": "2026-09-24 10:25:14 +0800",
-  "milestone": "feat(shell): construct MainShellScreen scaffold with persistent navigation and dynamic view slot",
+  "build": 29,
+  "timestamp": "2026-09-25 14:40:30 +0800",
+  "milestone": "feat(widget): build CustomAppBar with desktop brand mark, navigation tabs, and live cart badge",
   "target": "NET4207-INTI-Aug2026"
 }
