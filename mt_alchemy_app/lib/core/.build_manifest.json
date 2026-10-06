@@ -1,6 +1,6 @@
 {
-  "build": 35,
-  "timestamp": "2026-10-05 10:50:22 +0800",
-  "milestone": "feat(lms): create CourseCatalogScreen (Journey A) with category filter chips and search bar",
+  "build": 36,
+  "timestamp": "2026-10-06 15:20:14 +0800",
+  "milestone": "feat(lms): implement CourseDetailScreen with syllabus overview, facilitator bio, and tuition fee",
   "target": "NET4207-INTI-Aug2026"
 }
