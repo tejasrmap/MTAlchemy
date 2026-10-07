@@ -1,6 +1,6 @@
 {
-  "build": 36,
-  "timestamp": "2026-10-06 15:20:14 +0800",
-  "milestone": "feat(lms): implement CourseDetailScreen with syllabus overview, facilitator bio, and tuition fee",
+  "build": 37,
+  "timestamp": "2026-10-07 09:40:30 +0800",
+  "milestone": "feat(lms): build CoursePlayerScreen with interactive lesson modules and video player mock",
   "target": "NET4207-INTI-Aug2026"
 }
