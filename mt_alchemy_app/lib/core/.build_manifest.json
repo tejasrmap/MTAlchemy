@@ -1,6 +1,6 @@
 {
-  "build": 41,
-  "timestamp": "2026-10-13 15:45:50 +0800",
-  "milestone": "feat(lms): create CertificateViewScreen with cryptographically signed credential and watermark",
+  "build": 42,
+  "timestamp": "2026-10-14 10:15:33 +0800",
+  "milestone": "feat(lms): implement enrolled courses tab with progress indicators and continuation deep-linking",
   "target": "NET4207-INTI-Aug2026"
 }
