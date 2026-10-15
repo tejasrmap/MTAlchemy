@@ -1,6 +1,6 @@
 {
-  "build": 42,
-  "timestamp": "2026-10-14 10:15:33 +0800",
-  "milestone": "feat(lms): implement enrolled courses tab with progress indicators and continuation deep-linking",
+  "build": 43,
+  "timestamp": "2026-10-15 14:35:10 +0800",
+  "milestone": "feat(store): build StoreCatalogScreen (Journeys B & C) with digital and physical toolkit filters",
   "target": "NET4207-INTI-Aug2026"
 }
