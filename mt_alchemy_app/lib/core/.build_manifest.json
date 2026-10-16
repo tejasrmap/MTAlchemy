@@ -1,6 +1,6 @@
 {
-  "build": 43,
-  "timestamp": "2026-10-15 14:35:10 +0800",
-  "milestone": "feat(store): build StoreCatalogScreen (Journeys B & C) with digital and physical toolkit filters",
+  "build": 44,
+  "timestamp": "2026-10-16 16:50:25 +0800",
+  "milestone": "feat(store): create ProductCard with badge tag, ratings, pricing, and add-to-cart actions",
   "target": "NET4207-INTI-Aug2026"
 }
