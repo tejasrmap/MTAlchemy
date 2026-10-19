@@ -1,6 +1,6 @@
 {
-  "build": 44,
-  "timestamp": "2026-10-16 16:50:25 +0800",
-  "milestone": "feat(store): create ProductCard with badge tag, ratings, pricing, and add-to-cart actions",
+  "build": 45,
+  "timestamp": "2026-10-19 11:20:40 +0800",
+  "milestone": "feat(store): implement CartScreen with quantity controls, subtotal computation, and SST preview",
   "target": "NET4207-INTI-Aug2026"
 }
