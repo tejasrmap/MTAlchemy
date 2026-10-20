@@ -1,6 +1,6 @@
 {
-  "build": 45,
-  "timestamp": "2026-10-19 11:20:40 +0800",
-  "milestone": "feat(store): implement CartScreen with quantity controls, subtotal computation, and SST preview",
+  "build": 46,
+  "timestamp": "2026-10-20 15:10:15 +0800",
+  "milestone": "feat(store): create CheckoutScreen with Malaysian shipping address form and payment selector",
   "target": "NET4207-INTI-Aug2026"
 }
