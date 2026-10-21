@@ -1,6 +1,6 @@
 {
-  "build": 46,
-  "timestamp": "2026-10-20 15:10:15 +0800",
-  "milestone": "feat(store): create CheckoutScreen with Malaysian shipping address form and payment selector",
+  "build": 47,
+  "timestamp": "2026-10-21 10:45:30 +0800",
+  "milestone": "feat(store): implement FPX online banking payment flow with unique transaction signature",
   "target": "NET4207-INTI-Aug2026"
 }
