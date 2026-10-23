@@ -1,6 +1,6 @@
 {
-  "build": 48,
-  "timestamp": "2026-10-22 09:30:18 +0800",
-  "milestone": "feat(store): create OrderTrackingScreen with 4-stage fulfillment lifecycle progression timeline",
+  "build": 49,
+  "timestamp": "2026-10-23 14:15:55 +0800",
+  "milestone": "feat(store): implement MyDigitalProductsScreen (Journey B) with instant download file access",
   "target": "NET4207-INTI-Aug2026"
 }
