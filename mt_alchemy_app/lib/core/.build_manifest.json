@@ -1,6 +1,6 @@
 {
-  "build": 53,
-  "timestamp": "2026-10-28 09:50:25 +0800",
-  "milestone": "feat(employer): add dynamic Add Employee modal with automatic corporate email provisioning",
+  "build": 54,
+  "timestamp": "2026-10-28 14:10:12 +0800",
+  "milestone": "feat(employer): implement bulk course assignment modal for enterprise cohort training",
   "target": "NET4207-INTI-Aug2026"
 }
