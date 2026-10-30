@@ -1,6 +1,6 @@
 {
-  "build": 57,
-  "timestamp": "2026-10-30 10:15:05 +0800",
-  "milestone": "feat(corporate): add consulting domain checkboxes covering EQ, Resilience, and Culture",
+  "build": 58,
+  "timestamp": "2026-10-30 14:30:40 +0800",
+  "milestone": "feat(corporate): implement delivery format selector (Hybrid, In-Person, Virtual) and RFP submission",
   "target": "NET4207-INTI-Aug2026"
 }
