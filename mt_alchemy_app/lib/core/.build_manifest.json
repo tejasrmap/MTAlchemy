@@ -1,6 +1,6 @@
 {
-  "build": 56,
-  "timestamp": "2026-10-29 16:45:18 +0800",
-  "milestone": "feat(corporate): implement interactive participant volume slider (5-200 leaders) with tier pricing",
+  "build": 57,
+  "timestamp": "2026-10-30 10:15:05 +0800",
+  "milestone": "feat(corporate): add consulting domain checkboxes covering EQ, Resilience, and Culture",
   "target": "NET4207-INTI-Aug2026"
 }
